@@ -1,5 +1,7 @@
 ## PHP api for myblog database, no frameworks
 
+### Deployed using Xampp: apache server, mysql->myphpadmin
+
 ### Tutorial from: https://github.com/bradtraversy/php_rest_myblog
 > Part 1: https://www.youtube.com/watch?v=OEWXbpUMODk
 
